@@ -11,7 +11,7 @@
         android:layout_marginTop="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Est. 2021"
+        android:text="Veterinaria Génesis"
         android:textSize="36sp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -24,7 +24,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/homeText"
-        android:src="@drawable/inicio"/>
+        android:src="@drawable/vetinicio"/>
 
     <TextView
         android:id="@+id/quienesSomos"
@@ -41,7 +41,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
-        android:text="Somos una barberia ubicada en San Nicolás de los garza con los cortes mas modernos y el mejor servicio, conocenos y agenda tu cita."
+        android:text="Veterinaria Ubicada en San Nicolás de los Garza con mas de 20 años de experiencia, puedes confiar en que siempre buscaremos lo mejor para su mascota"
         android:textAlignment="viewStart"
         android:textSize="16sp"
         app:layout_constraintRight_toRightOf="parent"
@@ -80,7 +80,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="26dp"
-        android:text="Av. Romulo Garza #4000"
+        android:text="Av. Cordillera de los Andes #2010"
         app:layout_constraintLeft_toRightOf="@id/locationIcon"
         app:layout_constraintTop_toBottomOf="@id/phoneNumber" />
 

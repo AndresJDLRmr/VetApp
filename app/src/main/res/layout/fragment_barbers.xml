@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="24dp"
-        android:text="Nuestros Barberos"
+        android:text="Mis Mascotas"
         android:textColor="#000"
         android:gravity="center"
         />

@@ -2,40 +2,41 @@
 
     <!--STORE STRINGS -->
     <string name="app_name">VetApp</string>
-    <string name="shop_product1">Minoxidil</string>
-    <string name="shop_product2">Shampoo</string>
-    <string name="shop_product3">Tinte</string>
-    <string name="shop_product4">Cera</string>
-    <string name="description_product1">Frasco con 200 ml</string>
-    <string name="description_product2">Frasco con 100ml</string>
-    <string name="description_product3">Color fantasía</string>
-    <string name="description_product4">Contiene 300g</string>
+    <string name="shop_product1">Correa</string>
+    <string name="shop_product2">Shampoo para Perro</string>
+    <string name="shop_product3">Pelota de Juguete</string>
+    <string name="shop_product4">Hueso para perro</string>
+    <string name="description_product1">Correa de 2m de longitud</string>
+    <string name="description_product2">Frasco con 500ml</string>
+    <string name="description_product3">Pelota de Plástico, varios colores</string>
+    <string name="description_product4">Hueso fortalecedor</string>
     <string name="price_product1">100</string>
     <string name="price_product2">200</string>
     <string name="price_product3">80</string>
-    <string name="price_product4">250</string>
+    <string name="price_product4">75</string>
     <string name="disponibilidad_product1">Disponible en tienda</string>
     <string name="disponibilidad_product2">Disponible en tienda</string>
     <string name="disponibilidad_product3">Producto Agotado</string>
     <string name="disponibilidad_product4">Disponible en tienda</string>
 
-    <!-- BARBERS STRINGS -->
-    <string name="name_barber1">Juan Ignacio</string>
-    <string name="name_barber2">Ernesto Yair</string>
-    <string name="name_barber3">José Israel</string>
-    <string name="name_barber4">Luis Alonso</string>
-    <string name="days_barber1">Lunes - Sabado</string>
-    <string name="days_barber2">Martes - Domingo</string>
-    <string name="days_barber3">Martes-Domingo</string>
-    <string name="days_barber4">Lunes- Sabado</string>
-    <string name="hours_barber">11:00am - 8:00 pm</string>
+    <!-- MY PETS STRINGS -->
+    <string name="pet1">Stanley</string>
+    <string name="pet2">Victor</string>
+    <string name="pet3">Piolín</string>
+    <string name="type_pet1">Perro</string>
+    <string name="type_pet2">Gato</string>
+    <string name="type_pet3">Loro</string>
+    <string name="age_pet1">6 años</string>
+    <string name="age_pet2">3 años</string>
+    <string name="age_pet3">6 meses</string>
 
+
+    <!--SERVICES STRINGS-->
 
     <string name="bienvenidos">Bienvenidos a VetApp</string>
     <string name="msj_informacion">Esta aplicación es para:</string>
     <string name="part1">+ Conocer nuestros servicios </string>
     <string name="part2">+ Agendar cita para sus mascotas </string>
-
     <string name="Citas">Agenda tu servicio</string>
     <string name="nombre">Nombre</string>
     <string name="hora">Horario</string>
